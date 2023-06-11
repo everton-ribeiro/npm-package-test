@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T03:47:43.574Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="uW-mxBFa7NaV5wV7Cq8o" version="21.3.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-11T03:49:48.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="wR3nlWGhgoPSnXLQ6bo1" version="21.3.8" type="github" pages="3">
   <diagram name="Fluxo de caixa" id="5d7acffa-a066-3a61-03fe-96351882024d">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -480,7 +480,15 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="oWQkSFPD6w68TGqXcsLB" name="Planejamento">
+  <diagram id="oWQkSFPD6w68TGqXcsLB" name="Planejamento de ações">
+    <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3IHEy061SOu1WSibPtHR" name="Controle de ações">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
